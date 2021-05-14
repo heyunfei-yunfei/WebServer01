@@ -1,0 +1,10 @@
+1：运行webServer时控制台出现了：
+java.lang.securityException:Prohibited packed package:java.com.webServer
+原因就是
+
+
+
+
+
+4：浏览器请求后，服务端打桩之显示：一个客户端链接
+原因：遇到了浏览器发送的空请求问题
